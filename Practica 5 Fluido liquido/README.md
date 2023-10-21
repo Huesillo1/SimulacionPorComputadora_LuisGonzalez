@@ -1,6 +1,8 @@
-# CREACIÓN DE PERSONAJE
+# FLUIDO
 
 
-![Evidencia1](https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/3d19c302-2587-4a66-a5b7-fc6409b655b6)
-![Evidencia2](https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/47ec1540-ccf6-476b-b803-9a2c021720d6)
+https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/363fc637-44af-4d6c-bf6c-6a52eab56167
 
+
+
+![Evidencia](https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/1ad7fa5a-a18a-4e0e-9666-8d2b75964e35)
