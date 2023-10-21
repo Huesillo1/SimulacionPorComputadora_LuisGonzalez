@@ -1,6 +1,7 @@
-# CREACIÓN DE PERSONAJE
+# HUMO Y FUEGO
 
 
-![Evidencia1](https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/3d19c302-2587-4a66-a5b7-fc6409b655b6)
-![Evidencia2](https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/47ec1540-ccf6-476b-b803-9a2c021720d6)
+https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/e9b76617-b00e-47bf-8c4e-8d19fce3b6f9
 
+
+![Evidencia](https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/fcd60f3b-b54f-42cc-9459-81bdea5a5878)
