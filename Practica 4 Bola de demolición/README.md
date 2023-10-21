@@ -1,4 +1,4 @@
-# DEMOLICIÓN
+# BOLA DE DEMOLICIÓN
 
 https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/d970a0b9-b7cf-4702-995f-ea6ad106cf24
 
