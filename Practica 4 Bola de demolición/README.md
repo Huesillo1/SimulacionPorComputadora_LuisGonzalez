@@ -1,6 +1,6 @@
-# CREACIÓN DE PERSONAJE
+# DEMOLICIÓN
+
+https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/d970a0b9-b7cf-4702-995f-ea6ad106cf24
 
 
-![Evidencia1](https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/3d19c302-2587-4a66-a5b7-fc6409b655b6)
-![Evidencia2](https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/47ec1540-ccf6-476b-b803-9a2c021720d6)
-
+![demolicion_final](https://github.com/Huesillo1/SimulacionPorComputadora_LuisGonzalez/assets/81194147/34548dc3-43a6-44ca-9569-7f2d6ee1132e)
